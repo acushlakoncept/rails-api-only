@@ -1,24 +1,21 @@
-# README
+# Rails API Only Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple project used to practice a Rails API only application with JWT token.
 
-Things you may want to cover:
+Below are images to demonstrate the API basic usage with Postman
 
-* Ruby version
+## Create New User
 
-* System dependencies
+![screenshot](./post_user.jpg)
 
-* Configuration
 
-* Database creation
+## Login a User
 
-* Database initialization
+![screenshot](./login_user.jpg)
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+## Get user with invalid token
 
-* Deployment instructions
+![screenshot](./get_users_expired_token.jpg)
 
-* ...
+
